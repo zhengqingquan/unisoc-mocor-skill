@@ -130,7 +130,7 @@ AT_CMD_FUNC(ATC_ProcessFOO)
 | LCD/Sensor/资源/NV 等 | 源→目标全表不在本 skill；改前用 `<Product>.bat` 核对 | 与 ATC 无关，勿混 |
 
 吃不准：打开当前 `<Product>.bat`（若有）搜文件名 / `xcopy`。  
-**git 该交什么 / 暂存清单**：本 skill 不管 → `unisoc-mocor-commit-skill`。
+**git 该交什么 / 暂存清单**：本 skill 不管；勿代为提交或展开提交清单。
 
 ### 5.2 `atc_gen.bat`（另一类覆盖）
 
